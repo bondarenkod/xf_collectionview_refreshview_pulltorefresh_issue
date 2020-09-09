@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30320.27
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "refreshview_emptygroup.Android", "refreshview_emptygroup\refreshview_emptygroup.Android\refreshview_emptygroup.Android.csproj", "{5E0191F1-D903-414F-93A7-F4E034121D5A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "demo1.Android", "Demo1.Android\demo1.Android.csproj", "{5E0191F1-D903-414F-93A7-F4E034121D5A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "refreshview_emptygroup.iOS", "refreshview_emptygroup\refreshview_emptygroup.iOS\refreshview_emptygroup.iOS.csproj", "{0C5E7CCC-3891-4E9B-94D2-B903F3EE8C86}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "demo1.iOS", "Demo1.iOS\demo1.iOS.csproj", "{0C5E7CCC-3891-4E9B-94D2-B903F3EE8C86}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "refreshview_emptygroup", "refreshview_emptygroup\refreshview_emptygroup\refreshview_emptygroup.csproj", "{42BD2C65-3437-475D-91D3-B01E90B1F0E7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "demo1", "Demo1\demo1.csproj", "{42BD2C65-3437-475D-91D3-B01E90B1F0E7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
