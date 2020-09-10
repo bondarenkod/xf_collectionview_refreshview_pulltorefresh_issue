@@ -87,9 +87,9 @@
     <AndroidResource Include="Resources\drawable\xamarin_logo.png" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\refreshview_emptygroup\refreshview_emptygroup.csproj">
-      <Project>{A5E158C2-7AC2-45ED-9DC7-BC9D52D93F94}</Project>
-      <Name>refreshview_emptygroup</Name>
+    <ProjectReference Include="..\Demo1\demo1.csproj">
+      <Project>{42bd2c65-3437-475d-91d3-b01e90b1f0e7}</Project>
+      <Name>demo1</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
